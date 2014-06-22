@@ -20,3 +20,7 @@ Create one R script called [run_analysis.R](https://github.com/yingyuhsieh/Getti
 3. Uses descriptive activity names to name the activities in the data set.
 4. Appropriately labels the data set with descriptive variable names.
 5. Creates a second, independent tidy data set with the average of each variable for each activity and each subject. 
+
+Project Result:
+---------------------
+Download [tidy data file - project-tidy.data.txt](https://dl.dropboxusercontent.com/u/5539463/mynotes/project-tidydata.txt) for *5. Creates a second, independent tidy data set with the average of each variable for each activity and each subject.*
