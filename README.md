@@ -23,4 +23,4 @@ Create one R script called [run_analysis.R](https://github.com/yingyuhsieh/Getti
 
 Project Result:
 ---------------------
-Download [tidy data file - project-tidy.data.txt](https://dl.dropboxusercontent.com/u/5539463/mynotes/project-tidydata.txt) for *5. Creates a second, independent tidy data set with the average of each variable for each activity and each subject.*
+Download [tidy data file - project-tidy.data.txt](https://dl.dropboxusercontent.com/u/5539463/mynotes/project-tidydata.txt) for *5. Creates a second, independent tidy data set with the average of each variable for each activity and each subject.*  and its corresponding [code book](https://github.com/yingyuhsieh/Getting-and-Cleaning-Data/blob/master/CodeBook.md).
